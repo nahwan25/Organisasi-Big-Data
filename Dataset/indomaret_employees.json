@@ -1,0 +1,162 @@
+[
+  {
+    "id_karyawan": "P001",
+    "nama_lengkap": "Ahmad Pratama",
+    "umur": 37,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Staf Gudang",
+    "jam_kerja_per_bulan": 227
+  },
+  {
+    "id_karyawan": "P002",
+    "nama_lengkap": "Siti Nurhaliza",
+    "umur": 43,
+    "jenis_kelamin": "Perempuan",
+    "posisi": "Supervisor",
+    "jam_kerja_per_bulan": 189
+  },
+  {
+    "id_karyawan": "P003",
+    "nama_lengkap": "Budi Santoso",
+    "umur": 37,
+    "jenis_kelamin": "Perempuan",
+    "posisi": "Supervisor",
+    "jam_kerja_per_bulan": 152
+  },
+  {
+    "id_karyawan": "P004",
+    "nama_lengkap": "Rina Kartika",
+    "umur": 52,
+    "jenis_kelamin": "Perempuan",
+    "posisi": "Petugas Kebersihan",
+    "jam_kerja_per_bulan": 162
+  },
+  {
+    "id_karyawan": "P005",
+    "nama_lengkap": "Dedi Kurniawan",
+    "umur": 39,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Supervisor",
+    "jam_kerja_per_bulan": 112
+  },
+  {
+    "id_karyawan": "P006",
+    "nama_lengkap": "Indah Permatasari",
+    "umur": 39,
+    "jenis_kelamin": "Perempuan",
+    "posisi": "Staf Gudang",
+    "jam_kerja_per_bulan": 242
+  },
+  {
+    "id_karyawan": "P007",
+    "nama_lengkap": "Wahyu Hidayat",
+    "umur": 52,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Supervisor",
+    "jam_kerja_per_bulan": 138
+  },
+  {
+    "id_karyawan": "P008",
+    "nama_lengkap": "Yuni Marlin",
+    "umur": 30,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Petugas Kebersihan",
+    "jam_kerja_per_bulan": 199
+  },
+  {
+    "id_karyawan": "P009",
+    "nama_lengkap": "Rizky Maulana",
+    "umur": 41,
+    "jenis_kelamin": "Perempuan",
+    "posisi": "Petugas Kebersihan",
+    "jam_kerja_per_bulan": 192
+  },
+  {
+    "id_karyawan": "P010",
+    "nama_lengkap": "Dewi Ayu Lestari",
+    "umur": 43,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Petugas Kebersihan",
+    "jam_kerja_per_bulan": 130
+  },
+  {
+    "id_karyawan": "P011",
+    "nama_lengkap": "Fajar Ramadhan",
+    "umur": 34,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Keamanan",
+    "jam_kerja_per_bulan": 135
+  },
+  {
+    "id_karyawan": "P012",
+    "nama_lengkap": "Maya Sari",
+    "umur": 38,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Kasir",
+    "jam_kerja_per_bulan": 122
+  },
+  {
+    "id_karyawan": "P013",
+    "nama_lengkap": "Andi Saputra",
+    "umur": 51,
+    "jenis_kelamin": "Perempuan",
+    "posisi": "Petugas Kebersihan",
+    "jam_kerja_per_bulan": 124
+  },
+  {
+    "id_karyawan": "P014",
+    "nama_lengkap": "Lestari Wulandari",
+    "umur": 25,
+    "jenis_kelamin": "Perempuan",
+    "posisi": "Kasir",
+    "jam_kerja_per_bulan": 182
+  },
+  {
+    "id_karyawan": "P015",
+    "nama_lengkap": "Hendra Gunawan",
+    "umur": 44,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Petugas Kebersihan",
+    "jam_kerja_per_bulan": 188
+  },
+  {
+    "id_karyawan": "P016",
+    "nama_lengkap": "Nisa Rahmawati",
+    "umur": 38,
+    "jenis_kelamin": "Perempuan",
+    "posisi": "Keamanan",
+    "jam_kerja_per_bulan": 235
+  },
+  {
+    "id_karyawan": "P017",
+    "nama_lengkap": "Arief Setiawan",
+    "umur": 37,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Keamanan",
+    "jam_kerja_per_bulan": 216
+  },
+  {
+    "id_karyawan": "P018",
+    "nama_lengkap": "Intan Prameswari",
+    "umur": 53,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Kasir",
+    "jam_kerja_per_bulan": 139
+  },
+  {
+    "id_karyawan": "P019",
+    "nama_lengkap": "Bayu Nugroho",
+    "umur": 32,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Supervisor",
+    "jam_kerja_per_bulan": 197
+  },
+  {
+    "id_karyawan": "P020",
+    "nama_lengkap": "Fitriani Zahra",
+    "umur": 41,
+    "jenis_kelamin": "Laki-laki",
+    "posisi": "Supervisor",
+    "jam_kerja_per_bulan": 224
+  }
+]
